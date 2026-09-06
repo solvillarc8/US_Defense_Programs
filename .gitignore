@@ -1,0 +1,12 @@
+# Secrets — never commit the real API key
+.env
+
+# Big/regenerable data: the PDF re-downloads, the vector DB re-builds
+data/raw/*.pdf
+data/chroma/
+
+# Python noise
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.claude/worktrees/
