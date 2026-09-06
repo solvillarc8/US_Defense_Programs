@@ -1,0 +1,52 @@
+[
+  {
+    "id": "gao-cvn78-cvn79-cost",
+    "question": "How much have CVN 79 costs increased since 2021, according to GAO?",
+    "answer": "According to the GAO, costs for the CVN 79 have increased by over $1.5 billion since 2021. This increase is attributed to various factors, including the Navy beginning lead ship construction before completing the design and implementing design changes during construction, which is not consistent with leading shipbuilding practices (GAO-26-108457, pp. 145).",
+    "n_tool_calls": 1,
+    "cited_correctly": true,
+    "correct": true,
+    "missing_keywords": [],
+    "seconds": 16.3
+  },
+  {
+    "id": "gao-cvn78-cvn80-cost",
+    "question": "According to GAO, how much did CVN 80 costs increase?",
+    "answer": "According to GAO's assessment, the costs for CVN 80 increased by $500 million since the previous assessment. Additionally, it was noted that costs for CVN 79 have increased by over $1.5 billion, and CVN 81 costs increased by $1.2 billion. The increases are attributed to beginning lead ship construction before completing the design and implementing design changes during construction, in line with less effective shipbuilding practices (CVN 78, pp. 133-145).",
+    "n_tool_calls": 1,
+    "cited_correctly": true,
+    "correct": true,
+    "missing_keywords": [],
+    "seconds": 9.7
+  },
+  {
+    "id": "gao-cvn78-delay",
+    "question": "Why was CVN 79's delivery delayed, according to GAO?",
+    "answer": "The delay in the delivery of CVN 79 was attributed to ongoing challenges with its elevator and landing subsystems. As a result, the Navy rescheduled its delivery to March 2027, which is nearly two years later than initially planned. Program officials noted that the delay was necessary to finalize key testing events demonstrating the ship's ability to rapidly launch and land aircraft. The delays have stemmed partially from the program's decision to begin construction before completing the design phase, along with implementing design changes during construction \u2014 practices seen as misaligned with effective shipbuilding standards (CVN 78, pp. 145-145).",
+    "n_tool_calls": 1,
+    "cited_correctly": true,
+    "correct": true,
+    "missing_keywords": [],
+    "seconds": 16.3
+  },
+  {
+    "id": "gao-cvn78-testing",
+    "question": "What is the new completion date for CVN 78's initial operational testing?",
+    "answer": "The new completion date for the initial operational testing (IOT) of the CVN 78 (USS Gerald R. Ford) has been delayed to **February 2028**. This change pushes the original date from **March 2025** to allow for the completion of a key test event demonstrating the ship's capability to rapidly launch and land aircraft (CVN 78, pp. 145).",
+    "n_tool_calls": 2,
+    "cited_correctly": true,
+    "correct": true,
+    "missing_keywords": [],
+    "seconds": 47.4
+  },
+  {
+    "id": "gao-cvn78-contractor",
+    "question": "Who is the prime contractor for the CVN 78 program?",
+    "answer": "The prime contractor for the CVN 78 Gerald R. Ford Nuclear Aircraft Carrier program is Huntington Ingalls Industries at Newport News Shipbuilding (per the Weapons Book, pp. 93). This is also confirmed in the GAO assessment, which similarly identifies Huntington Ingalls Industries as the prime contractor (GAO-26-108457, pp. 145).",
+    "n_tool_calls": 2,
+    "cited_correctly": true,
+    "correct": true,
+    "missing_keywords": [],
+    "seconds": 36.3
+  }
+]

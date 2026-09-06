@@ -1,0 +1,10 @@
+openai
+chromadb
+pypdf
+streamlit
+python-dotenv
+requests
+flashrank
+langsmith
+nltk
+rank-bm25

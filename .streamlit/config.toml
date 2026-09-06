@@ -1,0 +1,17 @@
+[theme]
+# Pin the LIGHT theme regardless of the viewer's OS/browser dark-mode
+# setting. Without this, Streamlit generates dark-theme CSS (white text)
+# while app.py's CSS paints a white page -> invisible white-on-white text.
+base = "light"
+primaryColor = "#0b3558"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#eef2f5"
+textColor = "#17212b"
+font = "sans serif"
+
+[server]
+headless = true
+runOnSave = true
+
+[browser]
+gatherUsageStats = false

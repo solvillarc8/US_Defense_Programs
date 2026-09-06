@@ -1,0 +1,318 @@
+[
+  {
+    "id": "gao-cvn78-cvn79-cost",
+    "question": "How much have CVN 79 costs increased since 2021, according to GAO?",
+    "answer": "According to the GAO report, the costs for CVN 79 have increased by over $1.5 billion since 2021 (GAO-26-108457, pp. 145).",
+    "n_tool_calls": 1,
+    "cited_correctly": true,
+    "correct": true,
+    "missing_keywords": [],
+    "seconds": 19.0
+  },
+  {
+    "id": "gao-cvn78-cvn80-cost",
+    "question": "According to GAO, how much did CVN 80 costs increase?",
+    "answer": "According to the GAO, costs for CVN 80 increased by $500 million since last year (GAO-26-108457, pp. 133).",
+    "n_tool_calls": 1,
+    "cited_correctly": true,
+    "correct": true,
+    "missing_keywords": [],
+    "seconds": 11.6
+  },
+  {
+    "id": "gao-cvn78-delay",
+    "question": "Why was CVN 79's delivery delayed, according to GAO?",
+    "answer": "The delivery of CVN 79 has been delayed by nearly two years, now expected until March 2027. This delay is primarily attributed to ongoing challenges with an elevator subsystem and a landing subsystem. Navy officials indicated that these difficulties necessitated revisions in construction approaches, including a revised build sequence for future ships, to improve efficiency (GAO-26-108457, p. 133).",
+    "n_tool_calls": 1,
+    "cited_correctly": true,
+    "correct": true,
+    "missing_keywords": [],
+    "seconds": 8.1
+  },
+  {
+    "id": "gao-cvn78-testing",
+    "question": "What is the new completion date for CVN 78's initial operational testing?",
+    "answer": "The new completion date for the initial operational testing of the CVN 78 (USS Gerald R. Ford) has been delayed from March 2025 to February 2028. This change allows for the completion of a key test event demonstrating the ship's capability to rapidly launch and land aircraft (GAO-26-108457, pp. 145).",
+    "n_tool_calls": 2,
+    "cited_correctly": true,
+    "correct": true,
+    "missing_keywords": [],
+    "seconds": 12.0
+  },
+  {
+    "id": "gao-cvn78-contractor",
+    "question": "Who is the prime contractor for the CVN 78 program?",
+    "answer": "The prime contractor for the CVN 78 program (Gerald R. Ford class nuclear aircraft carrier) is Huntington Ingalls Industries, specifically its Newport News Shipbuilding division (CVN 78, pp. 133; per the Weapons Book, p. 93).",
+    "n_tool_calls": 2,
+    "cited_correctly": true,
+    "correct": true,
+    "missing_keywords": [],
+    "seconds": 11.9
+  },
+  {
+    "id": "gao-cvn78-class",
+    "question": "What class of aircraft carrier is CVN 78?",
+    "answer": "The CVN 78, also known as USS Gerald R. Ford (CVN-78), is the first ship of the Ford class of aircraft carriers. It's designed to be more advanced and capable than its predecessors, the Nimitz class carriers.",
+    "n_tool_calls": 0,
+    "cited_correctly": false,
+    "correct": true,
+    "missing_keywords": [],
+    "seconds": 1.7
+  },
+  {
+    "id": "gao-hades",
+    "question": "What does the HADES program integrate, according to GAO?",
+    "answer": "The High Accuracy Detection and Exploitation System (HADES) program integrates a commercial-variant business jet equipped with long-range, multi-intelligence sensors. Its primary objective is to enhance battlefield surveillance for mission command and long-range weapon systems, thereby providing commanders with improved intelligence and targeting capabilities through early warnings (HADES, pp. 119-120).",
+    "n_tool_calls": 1,
+    "cited_correctly": true,
+    "correct": true,
+    "missing_keywords": [],
+    "seconds": 7.3
+  },
+  {
+    "id": "gao-f22see",
+    "question": "What does the F-22 SeE program add to the F-22 aircraft?",
+    "answer": "The F-22 Sensor Enhancements (F-22 SeE) program aims to improve the capabilities of the F-22 aircraft by developing and fielding advanced sensor technology. This effort is designed to enhance adversary detection and tracking capabilities. The program is part of a rapid fielding initiative that allows the Air Force to expedite production and deployment of these enhancements while transitioning to a major capability acquisition pathway for further capabilities (F-22 SeE, pp. 97-98).\n\nThe program is currently expected to have its first flight test with the new sensor hardware in May 2026, albeit with limited testing time due to earlier delays. The enhancements will include procuring hardware for 30 sensor upgrades while collecting necessary flight test data to support eventual production (F-22 SeE, pp. 97-98).\n\nUltimately, F-22 SeE aims to address urgent operational needs and improve the effectiveness of the F-22 fleet through timely updates and enhancements in sensor capabilities.",
+    "n_tool_calls": 1,
+    "cited_correctly": true,
+    "correct": true,
+    "missing_keywords": [],
+    "seconds": 8.9
+  },
+  {
+    "id": "gao-sdb2",
+    "question": "What types of sensors does the SDB II weapon use, according to GAO?",
+    "answer": "The Small Diameter Bomb Increment II (SDB II), also known as StormBreaker, utilizes several types of sensors to enhance its targeting capabilities. Specifically, it combines:\n\n1. **Radar sensors** - for target acquisition and tracking.\n2. **Infrared sensors** - also used for acquiring and engaging targets.\n3. **Semiactive laser sensors** - providing additional targeting options.\n\nAdditionally, the SDB II employs airborne and ground data links to update target locations, along with GPS and an inertial navigation system to ensure targeting accuracy (SDB II, p. 108).",
+    "n_tool_calls": 1,
+    "cited_correctly": true,
+    "correct": true,
+    "missing_keywords": [],
+    "seconds": 7.3
+  },
+  {
+    "id": "gao-cps-page",
+    "question": "What page does GAO's CPS hypersonic weapon profile appear on?",
+    "answer": "GAO's profile for the Conventional Prompt Strike (CPS) hypersonic weapon appears on pages 143-144 of the Weapon Systems Annual Assessment (GAO-26-108457).",
+    "n_tool_calls": 1,
+    "cited_correctly": true,
+    "correct": true,
+    "missing_keywords": [],
+    "seconds": 9.7
+  },
+  {
+    "id": "gao-hacm-page",
+    "question": "What page does GAO's HACM hypersonic weapon profile appear on?",
+    "answer": "The Hypersonic Attack Cruise Missile (HACM) profile appears on pages 99-100 of GAO's 2026 Weapon Systems Annual Assessment (GAO-26-108457) (HACM, pp. 99-100).",
+    "n_tool_calls": 1,
+    "cited_correctly": true,
+    "correct": true,
+    "missing_keywords": [],
+    "seconds": 9.6
+  },
+  {
+    "id": "gao-mq25",
+    "question": "Does GAO's report include a profile for the MQ-25 Stingray program?",
+    "answer": "Yes, the GAO report includes a profile for the MQ-25 Stingray program. It outlines that the MQ-25 Stingray is a catapult-launched, uncrewed aircraft system designed for carrier operations, primarily intended to provide refueling capabilities for the carrier air wing, as well as intelligence, surveillance, and reconnaissance capabilities.\n\nKey details from the profile include:\n- The program is experiencing a 2\u00bd-year delay to initial operational capability and a 26-month delay to the end of initial operational testing, attributed to challenges in building test units and qualifying parts.\n- The program plans to conduct concurrent testing with low-rate initial production (LRIP), which poses risks of cost increases and further delays.\n- The first flight is planned for the second quarter of fiscal year 2026, with a decision on LRIP expected after that event and a contract for the first lot of LRIP aircraft targeted for summer 2026 (MQ-25 Stingray, pp. 163-164). \n\nThe report also details various challenges identified in software development and cybersecurity testing, emphasizing the need for improved data management for cost assessments due to fixed-price contract constraints (MQ-25 Stingray, pp. 152).",
+    "n_tool_calls": 1,
+    "cited_correctly": null,
+    "correct": true,
+    "missing_keywords": [],
+    "seconds": 12.0
+  },
+  {
+    "id": "gao-t7a",
+    "question": "What GAO program is nicknamed 'Red Hawk'?",
+    "answer": "The program nicknamed \"Red Hawk\" refers to the T-7A Red Hawk, which is a military training aircraft developed for the U.S. Air Force. It is aimed at providing a modern training platform for pilot training programs (GAO-26-108457, p. 97).",
+    "n_tool_calls": 1,
+    "cited_correctly": null,
+    "correct": true,
+    "missing_keywords": [],
+    "seconds": 7.4
+  },
+  {
+    "id": "gao-f22-full",
+    "question": "What is the full name of the F-22 aircraft program GAO assesses?",
+    "answer": "The full name of the F-22 aircraft program assessed by the GAO is \"F-22 Sensor Enhancements\" (F-22 SeE) (GAO-26-108457, pp. 97-98).",
+    "n_tool_calls": 1,
+    "cited_correctly": null,
+    "correct": false,
+    "missing_keywords": [
+      "Raptor"
+    ],
+    "seconds": 9.4
+  },
+  {
+    "id": "wb-patriot-radar",
+    "question": "What radar does the PATRIOT system use, per DoD's Weapons Book?",
+    "answer": "The PATRIOT missile defense system uses the passive electronically scanned (PESA) AN/MPQ-65 radar to discriminate between real targets and decoys and to guide interceptor missiles (PATRIOT, pp. 62). Additionally, there is a next-generation radar system, the Lower-Tier Air and Missile Defense Sensor (LTAMDS), being developed to replace the current AN/MPQ-53 and AN/MPQ-65 radar systems (PATRIOT, pp. 62).",
+    "n_tool_calls": 1,
+    "cited_correctly": true,
+    "correct": true,
+    "missing_keywords": [],
+    "seconds": 9.5
+  },
+  {
+    "id": "wb-ltamds",
+    "question": "What does LTAMDS replace, according to the Weapons Book?",
+    "answer": "According to the DoD's FY2026 Program Acquisition Costs by Weapon System (Weapons Book), the Lower-Tier Air and Missile Defense Sensor (LTAMDS) is being developed to replace the current radar systems used in the Patriot missile defense system, specifically the AN/MPQ-53 and AN/MPQ-65 radars (per the Weapons Book, pp. 62-62).",
+    "n_tool_calls": 1,
+    "cited_correctly": true,
+    "correct": true,
+    "missing_keywords": [],
+    "seconds": 10.4
+  },
+  {
+    "id": "wb-cvn-rcoh",
+    "question": "Which carrier's refueling overhaul does the Weapons Book fully fund in FY2026?",
+    "answer": "The Weapons Book fully funds the CVN Refueling Complex Overhaul (RCOH) for the USS Harry S. Truman (CVN 75) in FY 2026. This funding covers the second increment of three years of full funding, with the RCOH scheduled to begin in FY 2025. Additionally, it funds the costs to complete and outfit the USS John C. Stennis (CVN 74) (CVN Refueling Complex Overhaul, pp. 98-98).",
+    "n_tool_calls": 1,
+    "cited_correctly": true,
+    "correct": true,
+    "missing_keywords": [],
+    "seconds": 10.0
+  },
+  {
+    "id": "wb-sentinel",
+    "question": "What was the Sentinel missile program formerly called, per the Weapons Book?",
+    "answer": "The Sentinel missile program, officially designated as the LGM-35A Sentinel, was formerly known as the Ground Based Strategic Deterrent (GBSD) (per the Weapons Book, page 89).",
+    "n_tool_calls": 1,
+    "cited_correctly": true,
+    "correct": true,
+    "missing_keywords": [],
+    "seconds": 10.0
+  },
+  {
+    "id": "wb-lrhw",
+    "question": "What is the nickname for the Army's Long Range Hypersonic Weapon, per the Weapons Book?",
+    "answer": "The Army's Long Range Hypersonic Weapon (LRHW) is known by the nickname \"Dark Eagle\" (per the Weapons Book, p. 114).",
+    "n_tool_calls": 1,
+    "cited_correctly": true,
+    "correct": true,
+    "missing_keywords": [],
+    "seconds": 11.9
+  },
+  {
+    "id": "wb-hacm",
+    "question": "What service branch's Hypersonic Attack Cruise Missile does the Weapons Book describe on its own dedicated page?",
+    "answer": "The Weapons Book describes the U.S. Air Force's Hypersonic Attack Cruise Missile (HACM) on its own dedicated page (section 8-5, pp. 116-116). This missile is designed for launch from existing and future bomber aircraft, aiming to provide rapid engagement capability against high-value targets with improved survivability and maneuverability.",
+    "n_tool_calls": 1,
+    "cited_correctly": true,
+    "correct": true,
+    "missing_keywords": [],
+    "seconds": 20.7
+  },
+  {
+    "id": "wb-b21",
+    "question": "What was the B-21 Raider previously referred to as, per the Weapons Book?",
+    "answer": "The B-21 Raider was previously referred to as the Long Range Strike-Bomber (per the Weapons Book, pp. 27-27).",
+    "n_tool_calls": 1,
+    "cited_correctly": true,
+    "correct": true,
+    "missing_keywords": [],
+    "seconds": 11.4
+  },
+  {
+    "id": "wb-xm30",
+    "question": "What was the Army's XM30 Combat Vehicle formerly called, per the Weapons Book?",
+    "answer": "The Army's XM30 Combat Vehicle was formerly called the Optionally Manned Fighting Vehicle (OMFV) (per the Weapons Book, p. 54).",
+    "n_tool_calls": 1,
+    "cited_correctly": true,
+    "correct": true,
+    "missing_keywords": [],
+    "seconds": 8.4
+  },
+  {
+    "id": "wb-f47",
+    "question": "Does the Weapons Book describe an F-47 acquisition program?",
+    "answer": "Yes, the Weapons Book does describe an F-47 acquisition program. The FY 2026 Program Acquisition Costs by Weapon System outlines the F-47 program as an initiative to develop and field a weapon system that includes an Air Vehicle, Ground, Training, and Digital Infrastructure Segments. It aims to provide the capability to survive and defeat enemies in highly contested environments and ensure U.S. air superiority against global threats.\n\nThe FY 2026 program focuses on maturing technology and reducing risk through development and testing activities, with key attributes like enhanced survivability, lethality, and interoperability. The prime contractor for the program is The Boeing Company (Weapons Book, pp. 31).",
+    "n_tool_calls": 1,
+    "cited_correctly": true,
+    "correct": true,
+    "missing_keywords": [],
+    "seconds": 7.4
+  },
+  {
+    "id": "cross-cvn78-compare",
+    "question": "Compare how GAO and DoD's Weapons Book each describe the CVN 78 program.",
+    "answer": "The **CVN 78 Gerald R. Ford Nuclear Aircraft Carrier** program is described differently in the GAO's assessment and the DoD's Weapons Book, though both acknowledge its advancements and challenges.\n\n### GAO Assessment Highlights:\n- **Operational Enhancements**: The CVN 78 is designed to improve operational efficiency and increase sustained flight operations compared to legacy Nimitz-class carriers. It integrates new technologies such as an A1B reactor and advanced systems for launching and recovering aircraft (GAO-26-108457, pp. 145).\n- **Cost Concerns**: Costs are rising; the program has experienced significant increases for CVN 79, CVN 80, and CVN 81, attributed to design changes during construction without completing the initial designs (GAO-26-108457, pp. 145).\n- **Schedule Delays**: The delivery of CVN 79 has been pushed back nearly two years to March 2027 due to technical challenges, with key operational testing postponed to February 2028 (GAO-26-108457, pp. 145).\n- **Future Projections**: CVN 82 and CVN 83 are expected to be delivered by March 2039 and March 2043, respectively (GAO-26-108457, pp. 145).\n\n### DoD Weapons Book Highlights:\n- **Innovative Technologies**: The CVN 78 class introduces all-electric utilities, reducing crew requirements and maintenance needs. Notable systems include the Electromagnetic Aircraft Launch System (EMALS) and Advanced Arresting Gear (AAG) (Weapons Book, pp. 93).\n- **Mission**: It serves as a core asset for forward presence, deterrence, and power projection, aimed to enhance U.S. capabilities in various military operations (Weapons Book, pp. 93).\n- **Funding Overview**: The FY 2026 budget supports construction for three carriers (CVN 79, CVN 80, and CVN 81) with expectations of significant cost savings through a two-carrier procurement strategy initiated in FY 2019 (Weapons Book, pp. 93).\n- **Program Details**: The prime contractors are Huntington Ingalls Industries and Newport News, emphasizing the program's significance in shipbuilding and naval capabilities (Weapons Book, pp. 93).\n\n### Comparison Summary:\n- Both sources note the introduction of advanced technologies aimed at enhancing capabilities and reducing crew size. However, while the GAO focuses on the rising costs and schedule delays, the DoD's Weapons Book emphasizes operational capabilities and budget strategies aimed at cost savings through procurement practices.\n- The GAO's assessment highlights challenges such as technical issues and the timeline for delivery, whereas the DoD document presents a more optimistic view on the program's potential savings and mission effectiveness.",
+    "n_tool_calls": 2,
+    "cited_correctly": null,
+    "correct": true,
+    "seconds": 19.3
+  },
+  {
+    "id": "cross-sensors",
+    "question": "What weapon programs involve sensors, according to both GAO and DoD's Weapons Book?",
+    "answer": "According to the GAO's Weapon Systems Annual Assessment and DoD's FY2026 Weapons Book, several weapon programs involve sensors. Here are the notable examples from both sources:\n\n### GAO Report:\n1. **High Accuracy Detection and Exploitation System (HADES)**: This program integrates a commercial business jet with long-range multi-intelligence sensors to enhance battlefield surveillance and targeting capabilities. While it initially planned to develop new critical sensor technologies, funding constraints have led to using legacy sensors for some prototypes (HADES, pp. 119-120).\n   \n2. **Lower Tier Air and Missile Defense Sensor (LTAMDS)**: This is a multifunction radar system designed to replace the Patriot radar, enhancing reliability and modernization while addressing capability gaps (LTAMDS, pp. 129-129).\n\n### DoD Weapons Book:\n1. **MQ-9 Reaper Unmanned Aircraft System**: This aircraft hosts an array of sensors including Full Motion Video, Signals Intelligence, and Synthetic Aperture Radar, supporting reconnaissance and strike capabilities (Aircraft & Related Systems, pp. 16-16).\n\n2. **Command, Control, Communications, Computers, and Intelligence (C4I) Systems**: This investment encompasses a broad array of net-centric capabilities, heavily relying on interconnected sensors to enhance operational effectiveness and decision-making (C4I Systems, pp. 39-40).\n\nThese programs reflect ongoing investments in sensor technology as critical enablers for modern military operations.",
+    "n_tool_calls": 2,
+    "cited_correctly": null,
+    "correct": true,
+    "seconds": 13.8
+  },
+  {
+    "id": "chart-cvn78-cost",
+    "question": "What is the Program Cost breakdown (Procurement vs Development) on CVN 78's chart?",
+    "answer": "The cost breakdown for the CVN 78 program indicates:\n\n- **Procurement Cost**: $86,768 million\n- **Development Cost**: $8,749 million\n\nThis information is based on the CVN 78's program performance chart (pp. 145). If you have further questions or need more details, let me know!",
+    "n_tool_calls": 1,
+    "cited_correctly": true,
+    "correct": true,
+    "missing_keywords": [],
+    "seconds": 12.8
+  },
+  {
+    "id": "chart-cvn78-quantities",
+    "question": "According to CVN 78's chart, how many units are in Procurement?",
+    "answer": "The CVN 78 program has 6 units in procurement (GAO-26-108457, pp. 145).",
+    "n_tool_calls": 1,
+    "cited_correctly": true,
+    "correct": true,
+    "missing_keywords": [],
+    "seconds": 12.3
+  },
+  {
+    "id": "regression-broad-sensors",
+    "question": "What weapon programs involve sensors, according to GAO's report?",
+    "answer": "According to the GAO's report, two notable weapon programs involving sensors are:\n\n1. **Lower Tier Air and Missile Defense Sensor (LTAMDS)**: This Army program is intended to be a multifunction radar that will replace the current Patriot radar, focusing on enhancing battlefield capabilities, modern technology integration, and improving reliability and maintainability. LTAMDS aims to accelerate sensor capabilities to the warfighter and is scheduled to reach initial operational capability in the fourth quarter of fiscal year 2027 (GAO-26-108457, pp. 117-129).\n\n2. **High Accuracy Detection and Exploitation System (HADES)**: This program seeks to integrate a business jet with long-range, multi-intelligence sensors aimed at enhancing battlefield surveillance for mission commands. Although initially planned to integrate new sensor technologies, funding constraints have led to delays in developing a specific new sensor for one prototype, which will now use legacy sensors instead (GAO-26-108457, pp. 107-120).\n\nThese programs illustrate the ongoing emphasis on sensor technology within the Department of Defense's weapon systems acquisition efforts.",
+    "n_tool_calls": 1,
+    "cited_correctly": null,
+    "correct": true,
+    "missing_keywords": [],
+    "seconds": 10.2
+  },
+  {
+    "id": "refusal-worldcup",
+    "question": "Who won the 2022 FIFA World Cup?",
+    "answer": "I can't find this in the available corpus.",
+    "n_tool_calls": 0,
+    "cited_correctly": null,
+    "correct": true,
+    "seconds": 1.4
+  },
+  {
+    "id": "refusal-weather",
+    "question": "What's the weather like in Washington DC today?",
+    "answer": "I can't find this in the available corpus.",
+    "n_tool_calls": 0,
+    "cited_correctly": null,
+    "correct": true,
+    "seconds": 1.4
+  },
+  {
+    "id": "refusal-f35",
+    "question": "What company makes the engine for the F-35?",
+    "answer": "I can't find this in the available corpus.",
+    "n_tool_calls": 0,
+    "cited_correctly": null,
+    "correct": true,
+    "seconds": 2.3
+  },
+  {
+    "id": "refusal-recipe",
+    "question": "Give me a recipe for chocolate chip cookies.",
+    "answer": "I can't find this in the available corpus.",
+    "n_tool_calls": 0,
+    "cited_correctly": null,
+    "correct": true,
+    "seconds": 1.7
+  }
+]
